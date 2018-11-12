@@ -1,0 +1,16 @@
+{
+  "name": "typescript-react-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yukiycino-sandbox/typescript-react-sample",
+  "author": "yuki_yano <yuki.ycino@gmail.com>",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3",
+    "typescript": "^3.1.6"
+  }
+}
